@@ -1,8 +1,8 @@
 package org.study;
 
 public class Car {
-    private String doors;
-    private String color;
-    private String engine;
+    public String doors;
+    public String color;
+    public String engine;
     public int speed;
 }
